@@ -7,5 +7,3 @@
 Please feel free to reach out for collaborations!
 
 ![GitHub Collage 1](https://github.com/henrylowgh/henrylowgh/assets/131828718/00358341-7819-4d90-9a6d-89a7866bb9d1)
-
-![GitHub Collage 2](https://github.com/henrylowgh/henrylowgh/assets/131828718/63e1bca9-d397-4515-b6c9-d5d9ad65561a)
