@@ -1,8 +1,6 @@
 # Welcome to my GitHub Page!  
 
-### I am passionate about leveraging data science and computational methodologies, synergistically complementing experimental approaches, to help advance our understanding of the mechanisms behind cancer and other diseases at macromolecular, cellular, and systems levels.
-
-#### (I am also an avid app developer on the side!)
+### I am passionate about leveraging data science and computational methodologies, in synergistic complement with experimental approaches, to help advance our understanding of the mechanisms behind cancer and other diseases at molecular and systems scales.
 
 Please feel free to reach out for collaborations!
 
